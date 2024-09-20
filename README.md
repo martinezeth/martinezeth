@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 Hi there, I’m Ethan! 👋<br><br>About Me<br><br>I’m a recent graduate with a B.S. in Computer Science 🎓. I love combining cutting-edge tech with creativity, especially in the fields of computer vision and artificial intelligence. Currently, I’m diving deeper into iOS development and building projects that excite me!<br><br><br>🚀 Skills & Tools<br><br>	•	Languages: Swift, Python, JavaScript, TypeScript, C++, SQL<br>	•	Frameworks: SwiftUI, React, Node.js, Express, OpenCV<br>	•	Databases: MariaDB, MySQL, Firebase<br>	•	Other Tools: Git, GitHub, AWS, Unreal Engine, SSH<br>
 
 # 💻 Tech Stack:
