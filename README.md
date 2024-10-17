@@ -6,6 +6,5 @@ Hi there, I’m Ethan! 👋<br><br>About Me<br><br>I’m a recent graduate with 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=martinezeth&theme=monokai&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=martinezeth&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
